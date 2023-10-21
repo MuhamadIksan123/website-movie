@@ -2,7 +2,7 @@
 
 - Beranda
 - Daftar film mendatang
-- Daftar film tayangan
+- Daftar film mingguan
 
 ## Step 1: Header
 - Berisi: Navbar dan Hero Image
