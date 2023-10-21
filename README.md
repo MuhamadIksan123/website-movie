@@ -1,5 +1,9 @@
 # Sanmovie - Watch Movies Online
 
+- Beranda
+- Daftar film mendatang
+- Daftar film tayangan
+
 ## Step 1: Header
 - Berisi: Navbar dan Hero Image
 - Header Berisi: logo, nama web, nav link, dan tombol login
